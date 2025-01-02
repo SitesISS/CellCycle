@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6GWqJuHUOkD_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Cell Cycle Paper 1 2024</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Cell_Cycle_Paper_1_2024_ORG">
+    <organization identifier="Cell_Cycle_Paper_1_2024_ORG">
+      <title>Cell Cycle Paper 1 2024</title>
+      <item identifier="CellCycle_SCO" isvisible="true" identifierref="__6GWqJuHUOkD_course_id_RES">
+        <title>Cell Cycle Paper 1 2024</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6GWqJuHUOkD_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5fJsO1eeTbJ.png" />
+      <file href="mobile/6UIFvA0DoM2.png" />
+      <file href="mobile/5VhYTZvUN9u_X_FFFFFF.png" />
+      <file href="mobile/6AVVNgy6SpL.png" />
+      <file href="mobile/6YfIvT5altf_80.jpg" />
+      <file href="mobile/6EbyKlxlgSg_M_1072_1072.png" />
+      <file href="mobile/5oDoU0oPe96_M_1016_1016_E3E3E3_B10.png" />
+      <file href="mobile/6Rgb6246TY9_M_1088_1088_E3E3E3.png" />
+      <file href="mobile/6kkqEbAAD7s_M_1160_1160_E3E3E3_B10.png" />
+      <file href="mobile/5xqXkg8ah8V_M_1256_1256_E3E3E3.png" />
+      <file href="mobile/62yGqHm3tYH_M_952_952_E1E1E1_B10.png" />
+      <file href="mobile/5bpGU4iKbol_M_1320_1320.png" />
+      <file href="mobile/5j8Cqc1R1er_M_1112_1112_E3E3E3_B10.png" />
+      <file href="mobile/6ZdrhQJP5XY_M_1200_1200_E6E6E6_B10.png" />
+      <file href="mobile/6WoqDWHxum6_M_912_912.png" />
+      <file href="mobile/5XC9iRlf6XB_M_1080_1080_E3E3E3_B10.png" />
+      <file href="mobile/6LzOlzjk7Bh_M_1288_1288_D9D9D9_B10.png" />
+      <file href="mobile/6a6lteYo4jz_M_1080_1080_E3E3E3_B10.png" />
+      <file href="mobile/5Uj3T34IUmw_M_592_592_E3E3E3_B10.png" />
+      <file href="mobile/6EsdWaTidow_F3F3F3.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5o0LvvGSEfz.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dsLwDKW9ZG.js" />
+      <file href="html5/data/js/5mHw6TQ6jAP.js" />
+      <file href="html5/data/js/5siAFrWDcE0.js" />
+      <file href="html5/data/js/5tQZFmfg0I2.js" />
+      <file href="html5/data/js/5ZnmBWZNoTK.js" />
+      <file href="html5/data/js/69EQNRLJOvS.js" />
+      <file href="html5/data/js/69kF1RraSqe.js" />
+      <file href="html5/data/js/6AT3YcA7UKC.js" />
+      <file href="html5/data/js/6Fh4qX02RAe.js" />
+      <file href="html5/data/js/6fIYNJ7fZbg.js" />
+      <file href="html5/data/js/6FqlR39lkG0.js" />
+      <file href="html5/data/js/6gntv1TJNmG.js" />
+      <file href="html5/data/js/6Hdl69JZrqj.js" />
+      <file href="html5/data/js/6lYAPPjbeFR.js" />
+      <file href="html5/data/js/6ndOIikoahg.js" />
+      <file href="html5/data/js/6pHOoQz4fed.js" />
+      <file href="html5/data/js/6r4vRvaUPao.js" />
+      <file href="html5/data/js/6rFv0m9FnMv.js" />
+      <file href="html5/data/js/6ROJIvvw8ig.js" />
+      <file href="html5/data/js/6W6A5QY0sz2.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
